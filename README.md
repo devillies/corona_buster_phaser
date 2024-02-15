@@ -4,11 +4,12 @@
 
 <h2 align="center">
   <br>
-  <a href="https://github.com/photonstorm/phaser"><img src="https://phaser.io/images/img.png" alt="header" width="600"/></a>
+  <a href="https://github.com/photonstorm/phaser"><img src="./public/images/gameover.png" alt="header" width="600"/></a>
   <p>
-  Phaserjs 3
+  Corona Buster
   </p>
   <p>
-i have changed the phaser file structure so now the config is in indexjs  
+  Create a Corona Buster shooter game using phaser 3
+
   </p>
 </h2>
