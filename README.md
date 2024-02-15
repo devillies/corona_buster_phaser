@@ -10,6 +10,7 @@
   </p>
   <p>
   Create a Corona Buster shooter game using phaser 3
+  this is a gfame about shooting corona with plane
 
   </p>
 </h2>
